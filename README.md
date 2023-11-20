@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/pollyanasr">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pollyanasr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanasr&hide=DIGITAL%20Command%20Language&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollyanasr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanasr&layout=compact&hide=DIGITAL%20Command%20Language&&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
 </div>
