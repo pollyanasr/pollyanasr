@@ -36,7 +36,7 @@
 
 <div>
   <a href="https://github.com/pollyanasr">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pollyanasr&theme=tokyo-night" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pollyanasr&theme=tokyo-night" alt="Gráfico de Atividade do GitHub" />
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pollyanasr&show_icons=true&theme=tokyonight&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollyanasr&layout=compact&hide=DIGITAL%20Command%20Language&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
